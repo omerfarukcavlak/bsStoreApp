@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Repositories.Contracts;
 using Repositories.EFCore;
 using Services;
@@ -21,4 +22,5 @@ namespace WebApi.Extensions
             services.AddSingleton<ILoggerService,LoggerManager>();
 
     }
+
 }

@@ -1,0 +1,52 @@
+2025-03-07 01:37:34.7316 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 01:37:34.7316 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 01:37:34.7614 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 01:37:34.7750 Info Configuration initialized.
+2025-03-07 01:56:30.6067 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 01:56:30.6067 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 01:56:30.6352 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 01:56:30.6473 Info Configuration initialized.
+2025-03-07 01:58:04.1977 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 01:58:04.2166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 01:58:04.2378 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 01:58:04.2527 Info Configuration initialized.
+2025-03-07 01:58:39.9785 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 01:58:39.9933 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 01:58:40.0048 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 01:58:40.0161 Info Configuration initialized.
+2025-03-07 02:04:55.5758 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:04:55.5931 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:04:55.6118 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:04:55.6258 Info Configuration initialized.
+2025-03-07 02:05:06.9511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:05:06.9511 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:05:06.9794 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:05:06.9910 Info Configuration initialized.
+2025-03-07 02:05:30.7662 Info AppDomain Shutting down. LogFactory closing...
+2025-03-07 02:05:30.7884 Info LogFactory has been closed.
+2025-03-07 02:17:35.0151 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:17:35.0151 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:17:35.0356 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:17:35.0445 Info Configuration initialized.
+2025-03-07 02:20:57.1009 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:20:57.1113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:20:57.1225 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:20:57.1225 Info Configuration initialized.
+2025-03-07 02:22:25.7889 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:22:25.8019 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:22:25.8135 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:22:25.8135 Info Configuration initialized.
+2025-03-07 02:25:59.8356 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:25:59.8463 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:25:59.8573 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:25:59.8573 Info Configuration initialized.
+2025-03-07 02:27:00.1571 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:27:00.1729 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:27:00.1861 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:27:00.1861 Info Configuration initialized.
+2025-03-07 02:31:47.4824 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-07 02:31:47.4824 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-07 02:31:47.5040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\BTK\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-07 02:31:47.5134 Info Configuration initialized.
+2025-03-07 02:38:31.8120 Info AppDomain Shutting down. LogFactory closing...
+2025-03-07 02:38:31.8297 Info LogFactory has been closed.
