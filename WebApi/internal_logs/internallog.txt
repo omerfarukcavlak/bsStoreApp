@@ -162,3 +162,15 @@
 2025-03-19 21:18:01.9741 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
 2025-03-19 21:18:01.9887 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\Eğitmenler\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
 2025-03-19 21:18:02.0046 Info Configuration initialized.
+2025-03-19 22:15:06.7045 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-19 22:15:06.7165 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-19 22:15:06.7165 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\Eğitmenler\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-19 22:15:06.7325 Info Configuration initialized.
+2025-03-19 22:32:58.6590 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-19 22:32:58.6686 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-19 22:32:58.6686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\Eğitmenler\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-19 22:32:58.6896 Info Configuration initialized.
+2025-03-20 00:11:09.7514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-20 00:11:09.7725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-20 00:11:09.7841 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\Eğitmenler\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-20 00:11:09.7942 Info Configuration initialized.

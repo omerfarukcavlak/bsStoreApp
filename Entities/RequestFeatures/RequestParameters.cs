@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Entities.RequestFeatures
+﻿namespace Entities.RequestFeatures
 {
-    public abstract class RequuestParameters
+    public abstract class RequestParameters
     {
         const int maxPageSize = 50;
         public int PageNumber { get; set; }
@@ -17,6 +11,8 @@ namespace Entities.RequestFeatures
             get { return _pageSize; }
             set { _pageSize = value > maxPageSize ? maxPageSize : value; }
         }
+
+        public string? OrderBy { get; set; }
 
     }
 }
