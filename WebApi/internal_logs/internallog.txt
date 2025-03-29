@@ -216,3 +216,7 @@
 2025-03-29 04:08:14.4837 Info Configuration initialized.
 2025-03-29 04:11:48.4566 Info AppDomain Shutting down. LogFactory closing...
 2025-03-29 04:11:48.4829 Info LogFactory has been closed.
+2025-03-29 18:53:07.9995 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-29 18:53:08.0190 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-03-29 18:53:08.0190 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\CAVLAK\Desktop\Projects\Eğitmenler\ZaferCömert\API\bsStoreApp\WebApi\nlog.config
+2025-03-29 18:53:08.0585 Info Configuration initialized.
